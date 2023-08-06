@@ -13,7 +13,7 @@ function App() {
   return (
     <div className='App'>
       <VRButton />
-      <Canvas shadows>
+      <Canvas>
       <XR>
         <Controllers />
         <Hands />
